@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainardofarias&label=Profile%20views&color=0e75b6&style=flat" alt="mainardofarias" /> </p>
 
-- 🌱 Principais tecnologias que estudo no momento: **Flutter(Dart).**
+- 🌱 Tecnologias: **Flutter(Dart).**
 
 - 💬 Pergunte-me sobre **Flutter, Dart, SOLID.**
 
