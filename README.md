@@ -21,8 +21,3 @@
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="80" height="40"/> </a> <a href="https://www.mysql.com//" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="80" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<--!  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mainardofarias&show_icons=true&locale=en&layout=compact" alt="mainardofarias" /></p> -->
-
-<--!  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mainardofarias&show_icons=true&locale=en" alt="mainardofarias" /></p> -->
-
-<--!  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mainardofarias&" alt="mainardofarias" /></p>## -->
