@@ -1,16 +1,16 @@
 <h1 align="center">Olá 👋, me chamo Mainardo Farias</h1>
-<h3 align="center">Mobile Developer (Flutter)</h3>
+<h3 align="center">Back-End | JAVA </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainardofarias&label=Profile%20views&color=0e75b6&style=flat" alt="mainardofarias" /> </p>
 
-- 🌱 Tecnologias: **Flutter(Dart).**
+- 🌱 Tecnologias: **Java | SQL | Spring | Linux | JavaScript | HTML | CSS | Python.**
 
-- 💬 Pergunte-me sobre **Flutter, Dart, SOLID.**
+- 💬 Pergunte-me sobre **Java | Web Development | TI.**
 
 - 📫 Contato **mainardo.farias@hotmail.com**
 
-- ⚡ Fun fact **Sou amante do universo(cosmos) e do mundo geek!**
+- ⚡ Fun fact **Sou amante do universo e do mundo geek!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
