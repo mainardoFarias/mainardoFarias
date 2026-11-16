@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, me chamo Mainardo Farias</h1>
-<h3 align="center">Back-End | JAVA </h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainardofarias&label=Profile%20views&color=0e75b6&style=flat" alt="mainardofarias" /> </p>
 
-- 🌱 Tecnologias: **Java | SQL | Spring | Linux | JavaScript | HTML | CSS | Python.**
+- 🌱 Tecnologias: **Java | JavaScript | Spring | React |  Linux |  | HTML | CSS |**
 
-- 💬 Pergunte-me sobre **Java | Web Development | TI.**
+- 💬 Pergunte-me sobre ** Web Development | TI.**
 
 - 📫 Contato **mainardo.farias@hotmail.com**
 
